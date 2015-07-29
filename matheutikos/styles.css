@@ -1,0 +1,24 @@
+#moodle #pending-homework .list-group-item {
+  padding:5px;
+  font-size:12px;
+}
+
+#moodle #pending-homework .list-group-item .badge {
+  float:right;
+  padding:1px 3px;
+}
+
+#moodle #pending-homework .list-group-item .progress {
+  float:right;
+  width:40px;
+  height:10px;
+  display:inline-block;
+  margin:0;
+  margin-top:3px;
+  margin-left:5px;
+}
+
+#moodle #pending-homework .list-group-item .progress .progress-bar {
+  height:10px;
+  background-color: #337ab7;
+}
